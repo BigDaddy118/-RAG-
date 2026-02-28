@@ -1,0 +1,14 @@
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# 向量数据库
+chroma_db/
+
+# VS Code 配置
+.vscode/
+
+# Python 缓存
+__pycache__/
+*.pyc
